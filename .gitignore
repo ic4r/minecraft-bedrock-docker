@@ -1,0 +1,5 @@
+!bedrock-server/
+bedrock-server/**
+!bedrock-server/server.properties
+!bedrock-server/permissions.json
+bedrock_zip/
